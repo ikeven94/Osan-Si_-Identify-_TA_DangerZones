@@ -9,6 +9,9 @@
 - [map4.html](#map4)
 - [어린이보호구역+평균유동인구.PNG](#cjlee1)
 - [map5.html](#map5)
+- [kid_accident+hakwon.html](#map6)
+- [indo+kid_accident1.html](#map7)
+- [indo+kid_accident2.html](#map8)
 
 
 
@@ -42,6 +45,18 @@
 >
 > 오산시 연령별 총 인구수 격자 데이터와 연관지어 지도 그래프로 나타내어봄
 
-:bulb: 어린이보호구역+유동인구-시간대별.html <a idx="cjlee1"></a>
+:bulb: 어린이보호구역+유동인구-시간대별.html <a idx="cjlee2"></a>
 
 > 오산시 어린이보호구역과 시간대별 유동인구(50%>)를 동적그래프로 나타내어봄 (**주의: 비공개 데이터 활용**)
+
+:bulb: kid_accident+hakwon.html <a idx="map6"></a>
+
+> 어린이 교통사고 빈번 발생 격자는 주변에 학원이 있는 어린이 보호구역 근처일까?
+
+:bulb: ​indo+kid_accident1.html <a idx="map7"></a>
+
+> 인도의 재질 차이가 어린이 교통사고와 관련이 있는가?
+
+:bulb: ​indo+kid_accident2.html <a idx="map7"></a>
+
+> 인도의 자전거도로 유무 차이가 어린이 교통사고와 관련이 있는가?
