@@ -60,3 +60,24 @@
 :bulb: ​indo+kid_accident2.html <a idx="map7"></a>
 
 > 인도의 자전거도로 유무 차이가 어린이 교통사고와 관련이 있는가?
+
+:bulb: ​acc2.html <a idx="map7"></a>
+
+> 사고횟수 2회 이상인 격자 시각화
+
+:bulb: ​acc3.html <a idx="map7"></a>
+
+> 사고횟수 3회 이상인 격자 시각화
+
+:bulb: ​acc5.html <a idx="map7"></a>
+
+> 사고횟수 5회 이상인 격자 시각화
+
+:bulb: ​acc7.html <a idx="map7"></a>
+
+> 사고횟수 7회 이상인 격자 시각화
+
+:bulb: ​acc10.html <a idx="map7"></a>
+
+> 사고횟수 10회(인 격자 시각화
+
