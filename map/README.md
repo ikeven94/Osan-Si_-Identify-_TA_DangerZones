@@ -12,6 +12,11 @@
 - [kid_accident+hakwon.html](#map6)
 - [indo+kid_accident1.html](#map7)
 - [indo+kid_accident2.html](#map8)
+- [acc2.html](#map9)
+- [acc3.html](#map10)
+- [acc5.html](#map11)
+- [acc7.html](#map12)
+- [acc10.html](#map13)
 
 
 
@@ -61,23 +66,23 @@
 
 > 인도의 자전거도로 유무 차이가 어린이 교통사고와 관련이 있는가?
 
-:bulb: ​acc2.html <a idx="map7"></a>
+:bulb: ​acc2.html <a idx="map9"></a>
 
 > 사고횟수 2회 이상인 격자 시각화
 
-:bulb: ​acc3.html <a idx="map7"></a>
+:bulb: ​acc3.html <a idx="map10"></a>
 
 > 사고횟수 3회 이상인 격자 시각화
 
-:bulb: ​acc5.html <a idx="map7"></a>
+:bulb: ​acc5.html <a idx="map11"></a>
 
 > 사고횟수 5회 이상인 격자 시각화
 
-:bulb: ​acc7.html <a idx="map7"></a>
+:bulb: ​acc7.html <a idx="map12"></a>
 
 > 사고횟수 7회 이상인 격자 시각화
 
-:bulb: ​acc10.html <a idx="map7"></a>
+:bulb: ​acc10.html <a idx="map13"></a>
 
 > 사고횟수 10회(인 격자 시각화
 
